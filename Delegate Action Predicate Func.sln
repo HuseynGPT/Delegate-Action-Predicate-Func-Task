@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate Action Predicate Func", "Delegate Action Predicate Func\Delegate Action Predicate Func.csproj", "{C72FEEC5-82A5-4919-ADED-F5717D204415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72FEEC5-82A5-4919-ADED-F5717D204415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72FEEC5-82A5-4919-ADED-F5717D204415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72FEEC5-82A5-4919-ADED-F5717D204415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72FEEC5-82A5-4919-ADED-F5717D204415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D27D62-C3A0-47F9-8CEF-70481C472BE6}
+	EndGlobalSection
+EndGlobal

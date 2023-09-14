@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\bin\Debug\net6.0\Delegate Action Predicate Func.exe
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\bin\Debug\net6.0\Delegate Action Predicate Func.deps.json
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\bin\Debug\net6.0\Delegate Action Predicate Func.runtimeconfig.json
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\bin\Debug\net6.0\Delegate Action Predicate Func.dll
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\bin\Debug\net6.0\Delegate Action Predicate Func.pdb
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.dll
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\refint\Delegate Action Predicate Func.dll
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.pdb
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\Delegate Action Predicate Func.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Delegate Action Predicate Func\Delegate Action Predicate Func\obj\Debug\net6.0\ref\Delegate Action Predicate Func.dll
